@@ -20,6 +20,7 @@
 "Thomas Kluyver" = {github = "@takluyver", affiliations = ["xfel"]}
 "Vanessa Nehruji" = {github = "@vanessanehruji", affiliations = ["southampton"]}
 "Swapneel Amit Pathak" = {github ="@swapneelap", affiliations = ["southampton", "max-planck"]}
+"Sergei Krylov" = {github = "@seregakr", affiliations = ["elu"]}
 
 [affiliations]
 birmingham = "Research Software Group, University of Birmingham, Birmingham B15 2TT, UK"
@@ -34,3 +35,4 @@ southampton = "Faculty of Engineering and Physical Sciences, University of South
 warwick = "Department of Physics, University of Warwick, Coventry CV4 7AL, UK"
 xfel = "European XFEL GmbH, Holzkoppel 4, 22869 Schenefeld, Germany"
 utrecht = "Paleomagnetic Laboratory Fort Hoofddijk, Utrecht University, Utrecht, 3584 CD, Netherlands"
+elu = "Institute of Electrical Engineering, Slovak Academy of Sciences"
